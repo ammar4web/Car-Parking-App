@@ -9,7 +9,7 @@ function RouterApp() {
     <>
       <Router>
         <header className="py-6 bg-gray-100 shadow">
-          <div className="container md:px-2 px-4 mx-auto">
+          <div className="container lg:px-20 md:px-2 px-4 mx-auto">
             <nav className="flex gap-4 justify-between">
               <div className="flex gap-4 items-center">
                 <h2 className="text-xl font-bold">
@@ -27,7 +27,7 @@ function RouterApp() {
           </div>
         </header>
 
-        <div className="container md:px-2 px-4 pt-8 md:pt-16 mx-auto">
+        <div className="container lg:px-20 md:px-2 px-4 pt-8 md:pt-16 mx-auto">
           <Routes>
             {/* <Route exact path="/" component={<Home />} /> */}
             <Route path="/" element={<Home />} />
