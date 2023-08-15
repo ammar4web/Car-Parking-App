@@ -11,18 +11,18 @@
 1. Clone the repository:
 
 2. Laravel API
-   -  ```sh cd api_using_laravel ```
-   -  ```sh cd api_using_laravel ```
+   -  ``` cd api_using_laravel ```
+   -  ``` cd api_using_laravel ```
    -  Create the ".env" file and set the database connection values.
-   -  ```sh composer install ```
-   -  ```sh php artisan key:generate ```
-   -  ```sh php artisan migrate ```
-   -  ```sh php artisan ser --port=8100 ```
+   -  ``` composer install ```
+   -  ``` php artisan key:generate ```
+   -  ``` php artisan migrate ```
+   -  ``` php artisan ser --port=8100 ```
 
 3. Client Website using React
-   -  ```sh cd react-vite ```
-   -  ```sh npm install ```
-   -  ```sh npm run dev ```
+   -  ``` cd react-vite ```
+   -  ``` npm install ```
+   -  ``` npm run dev ```
 
 4. Client Website using Vue
    -  `cd vue3`
