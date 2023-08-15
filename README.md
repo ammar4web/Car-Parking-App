@@ -9,8 +9,9 @@
 ## Project Installation Steps:
 
 1. Clone the repository:
+  - ``` git clone https://github.com/ammar4web/Car-Parking-App.git ```
 
-2. Laravel API
+3. Laravel API
    -  ``` cd api_using_laravel ```
    -  Create the ".env" file and set the database connection values.
    -  ``` composer install ```
@@ -18,12 +19,12 @@
    -  ``` php artisan migrate ```
    -  ``` php artisan ser --port=8100 ```
 
-3. Client Website using React
+4. Client Website using React
    -  ``` cd react-vite ```
    -  ``` npm install ```
    -  ``` npm run dev ```
 
-4. Client Website using Vue
+5. Client Website using Vue
    -  `cd vue3`
 
 <br />
