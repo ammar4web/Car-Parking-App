@@ -12,7 +12,6 @@
 
 2. Laravel API
    -  ``` cd api_using_laravel ```
-   -  ``` cd api_using_laravel ```
    -  Create the ".env" file and set the database connection values.
    -  ``` composer install ```
    -  ``` php artisan key:generate ```
